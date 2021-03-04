@@ -12,4 +12,5 @@
 * [Shepherd, Jason](shepherd-idea.txt)
 * [Shepherd, jbshepspam](jbshepspam-idea.txt)
 * [Thomsen, Nate](thomnat2-idea.txt)
+* [Wibben, Erick](wibbene-idea.txt)
 
