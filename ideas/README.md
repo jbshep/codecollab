@@ -6,6 +6,7 @@
 * [Daughenbaugh, Caleb](daugcal-idea.txt)
 * [Gehling, Mason](gehlmas-idea.txt)  
 * [Haberl, Brieann](habebri-idea.txt)
+* [Hussey, Quinn](hussqui-idea.txt)
 * [Melohn, Michael](melomic-idea.txt)
 * [Overkamp, James](overjam-idea.txt)
 * [Radford, Deniece](radfden-idea.txt)
