@@ -1,0 +1,4 @@
+CMSC 911
+
+A coding class where your skills will be tested in, python, java, c++, and html where
+assignments are timed to see how fast students can reach a solution.
