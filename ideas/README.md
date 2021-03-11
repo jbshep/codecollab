@@ -2,6 +2,7 @@
 
 * [Bohner, Joshua](bohnjos-idea.txt)
 * [Brown, Bradley](browbra2-idea.txt)
+* [Bryce, Dahlen](brycdah-idea.txt)
 * [Brown, Conner](Browcon2-idea.txt)
 * [Clinesmith, Michael](clinmic2-idea.txt)
 * [Daughenbaugh, Caleb](daugcal-idea.txt)
